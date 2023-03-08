@@ -17,7 +17,7 @@ if(!empty($_POST)){
                   <strong>Name: </strong>" .$_POST["name"] . "</br>".
                   "<strong>Email: </strong>" .$_POST["email"] . "</br>".
                   "<strong>Message: </strong>" .$_POST["message"];
-        
+                  
         die($error);
     }
 }
