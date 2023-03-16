@@ -1,4 +1,3 @@
 <?php
-
-define("SESSION_CHECK_COUNTER","is_counted");
-define("COUNTER_FILE","counter.txt");
+define("_counter_file_","counter.txt");
+define("_session_key_counter","is counted");
